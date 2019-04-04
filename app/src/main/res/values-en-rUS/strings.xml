@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--Your application name-->
+    <string name="app_name">Elliniká Radiófona</string>
+
+    <!--Your main menu tab name-->
+
+
+    <!--navigation drawer menu name-->
+    <string name="drawer_recent">Home</string>
+    <string name="drawer_rate">Rate</string>
+    <string name="drawer_more">More</string>
+    <string name="drawer_about">About</string>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+
+
+
+
+    <!--floating action button menu-->
+    <string name="fab_favorite">My Favorite</string>
+
+
+    <!--other string tag name-->
+    <string name="share_content">I Would like to share this with you. Here You Can Download This Application from PlayStore </string>
+
+    <string name="search">Search&#8230;</string>
+    <string name="option_set_favorite">Add this to My Favorite</string>
+    <string name="option_set_share">Share to Friends</string>
+    <string name="option_unset_favorite">Remove this From My Favorites</string>
+    <string name="favorite_added">Added to Favorite</string>
+    <string name="favorite_removed">Removed from Favorite</string>
+    <string name="radio_connection">Connecting to </string>
+    <string name="internet_disabled">Internet Connection is Disabled</string>
+
+
+    <!--aykut eklemeler-->
+    <string name="drawer_sleep_mode">Set Timer</string>
+    <string name="drawer_radio_add">Add Radio</string>
+    <string name="option_send_report">Report broken link</string>
+    <string name="sleep_mode_text">What time do you want to close radio?</string>
+    <string name="sleep_mode_text_close_time">Radio is closed in </string>
+    <string name="sleep_mode_yes">Yes, I want</string>
+    <string name="sleep_mode_no">No, not now </string>
+    <string name="sleep_mode_message">There is an timer !</string>
+    <string name="sleep_mode_cancel">Delete timer!</string>
+    <string name="sleep_mode_min">mins.</string>
+    <string name="choose_email">Choose an email client from&#8230;</string>
+    <string name="email_problem">No email client installed.</string>
+    <string name="email_message">is broken, please renew it.</string>
+    <string name="email_subject">is broken - Elliniká Radiófona -</string>
+    <string name="drawer_exit">Exit</string>
+    <string name="tab_recent">"Recent Added "</string>
+    <string name="tab_category">Categories</string>
+    <string name="no_favorite_found">No Favorite Found</string>
+    <string name="drawer_sleep">Set Timer</string>
+    <string name="cancel">No</string>
+    <string name="quit">Exit</string>
+    <string name="message">Do you want to close the application?</string>
+    <string name="minimize">Minimize</string>
+    <string name="rate_title">Rate</string>
+    <string name="rate_message">Please don’t forget vote our app with 5 star in PlayStore to help us improve it..</string>
+    <string name="sleep_mode_hour">hours</string>
+    <string name="sleep_mode_remaning">"Remaining Time: "</string>
+    <string name="drawer_favorite">My Favorite</string>
+    <string name="app_screen_hello">"Hello ! "</string>
+    <string name="app_screen2_t">Second step !</string>
+    <string name="app_screen3_t">Last step !</string>
+    <string name="app_screen1">Welcome to our application, this screen will not come out again, This App uses Google Cookies in order to provide its services, personalize ads and analyze visits. Information on your App usage will be shared with Google. By using this App you agree with the use of cookies.. to search for radio you can use the Search icon.</string>
+    <string name="app_screen2">Use the icon with three dots on top to add any radios to your favorites, report a broadcast error, or share with friends.</string>
+    <string name="app_screen3">With the menu button you can review your favorites, set up timer mode and can check other features.  Happy listening!</string>
+    <string name="sleep_mode_minute">minutes.</string>
+    <string name="title_contact_us">Contact Us</string>
+    <string name="failed_text_short">There is a problem related to this radio station</string>
+    <string name="failed_text">An error occurred. Maybe not available in your Country or Radio Station is offline.</string>
+    <string name="no_internet_text">No Internet Connection</string>
+    <string name="station">Station(s)</string>
+    <string name="option_set_detail">Details</string>
+    <string name="no_category_found">No category found!!</string>
+    <string name="no_post_found">if you want to continue search, please try enter another keyword!</string>
+    <string name="msg_search_input">Please Insert Keyword</string>
+
+
+</resources>

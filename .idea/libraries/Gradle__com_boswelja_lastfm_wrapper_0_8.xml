@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.boswelja:lastfm-wrapper-0.8">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/lastfm-wrapper-0.8.aar/c568711a3fc6c3b1267e7b45e59f27d5/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/lastfm-wrapper-0.8.aar/c568711a3fc6c3b1267e7b45e59f27d5/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.boswelja/lastfm-wrapper/0.8/6d5f4a969ba9158f02ed270edf143f86238de75c/lastfm-wrapper-0.8-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

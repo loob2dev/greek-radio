@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--Your application name-->
+    <string name="app_name">Elliniká Radiófona</string>
+
+    <!--Your main menu tab name-->
+
+    <!--navigation drawer menu name-->
+    <string name="drawer_recent">Home</string>
+    <string name="drawer_rate">Tarief en review</string>
+    <string name="drawer_more">Verder..</string>
+    <string name="drawer_open">Open het navigatiepaneel</string>
+    <string name="drawer_close">Sluit het navigatiepaneel</string>
+
+
+     <!--floating action button menu-->
+    <string name="fab_favorite">Mijn favorieten</string>
+
+    <!--other string tag name-->
+    <string name="search">Zoek&#8230;</string>
+    <string name="option_set_favorite">Voeg toe aan favorieten</string>
+    <string name="option_set_share">Delen</string>
+    <string name="option_unset_favorite">Verwijderen uit favorieten</string>
+    <string name="favorite_added">Toegevoegd aan je favorieten</string>
+    <string name="favorite_removed">Mijn favoriet is verwijderd.</string>
+    <string name="radio_connection">Verbinden met </string>
+    <string name="internet_disabled">Internet-verbinding is uitgeschakeld</string>
+
+    <string name="share_content">Ik wil met u delen, kunt u hier de toepassing van de PlayStore</string>
+    <string name="drawer_about">Over de App</string>
+    <string name="option_send_report">Radio werkt niet</string>
+    <string name="email_subject">is broken - Elliniká Radiófona -</string>
+    <string name="email_message">is broken, please renew it</string>
+    <string name="email_problem">Geen e-mailclient geïnstalleerd.</string>
+    <string name="drawer_sleep_mode">Set Timer</string>
+    <string name="drawer_radio_add">Add Radio</string>
+    <string name="choose_email">Kies een e-mailclient van...</string>
+    <string name="sleep_mode_cancel">Timer verwijderen!</string>
+    <string name="sleep_mode_message">Er is een timer!</string>
+    <string name="sleep_mode_min">mins</string>
+    <string name="sleep_mode_no">Nee nog niet</string>
+    <string name="sleep_mode_text">Welke tijd wilt u radio sluiten?</string>
+    <string name="sleep_mode_text_close_time">App zal sluiten in</string>
+    <string name="sleep_mode_yes">Ja wil ik</string>
+    <string name="drawer_exit">Afmelden</string>
+    <string name="tab_recent">Laatste</string>
+    <string name="tab_category">Categorieën</string>
+    <string name="no_favorite_found">Uw favorietenlijst is leeg</string>
+    <string name="drawer_sleep">Set Timer</string>
+    <string name="cancel">Nee</string>
+    <string name="quit">Afrit</string>
+    <string name="message">Om de toepassing te sluiten?</string>
+    <string name="minimize">Verkleinen</string>
+    <string name="rate_title">Tarief en review</string>
+    <string name="rate_message">Om ons te helpen deze toepassing te verbeteren, vergeet dan niet om 5 sterren in PlayStore geven</string>
+    <string name="sleep_mode_remaning">Overgebleven tijd:</string>
+    <string name="sleep_mode_hour">uren</string>
+    <string name="drawer_favorite">Mijn favorieten</string>
+    <string name="app_screen_hello">Hallo !</string>
+    <string name="app_screen2_t">Tweede stap !</string>
+    <string name="app_screen3_t">Laatste stap !</string>
+    <string name="app_screen1">"Welkom bij onze applicatie, deze pagina verschijnt niet meer. Deze App maakt gebruik van cookies van Google om hun diensten te leveren, advertenties te personaliseren en verkeer te analyseren. Informatie over hoe u de App gebruikt, wordt gedeeld met Google. Door deze App te gebruiken, gaat u ermee akkoord om cookies te gebruiken. Om te zoeken naar de radio, kunt u het pictogram Zoeken gebruiken.  "</string>
+    <string name="app_screen2">Gebruik het driepuntspictogram om radio\'s aan uw favorieten toe te voegen, een verzendingsfout te melden of te delen met vrienden.</string>
+    <string name="app_screen3">Met de menuknop kunt u uw favorieten bekijken, de timer-modus instellen en andere functies bedienen. Goed luisteren!</string>
+    <string name="sleep_mode_minute">minuten.</string>
+    <string name="title_contact_us">Contacteer ons</string>
+    <string name="failed_text_short">Er is een probleem met betrekking tot deze radiozender</string>
+    <string name="failed_text">Er is een fout opgetreden. Misschien niet beschikbaar op jouw locatie of Radiostation is offline.</string>
+    <string name="no_internet_text">Geen internetverbinding</string>
+    <string name="station">Radio</string>
+    <string name="option_set_detail">Details</string>
+    <string name="no_category_found">Geen categorie gevonden !!</string>
+    <string name="no_post_found">Geen resultaat gevonden! Probeer een ander trefwoord</string>
+    <string name="msg_search_input">Voer een trefwoord in</string>
+
+</resources>

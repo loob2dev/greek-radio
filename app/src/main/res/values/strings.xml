@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--Your application name-->
+    <string name="app_name">Elliniká Radiófona</string>
+
+    <!--Your main menu tab name-->
+    <string name="tab_category">Category</string>
+
+    <!--AdMob-->
+    <string name="admob_app_id" translatable="false">ca-app-pub-9534732046403924~4458661299</string>
+    <string name="admob_banner_unit_id" translatable="false">ca-app-pub-9534732046403924/5935394492</string>
+    <string name="admob_interstitial_unit_id" translatable="false">ca-app-pub-9534732046403924/8888860895</string>
+
+    <!--navigation drawer menu name-->
+    <string name="drawer_recent">Home</string>
+    <string name="drawer_favorite">Favorite</string>
+    <string name="drawer_other" translatable="false">...</string>
+    <string name="drawer_rate">Rate</string>
+    <string name="drawer_more">More</string>
+    <string name="drawer_about">About</string>
+
+    <!--exit dialog-->
+    <string name="message">What do you want to do?</string>
+    <string name="quit">Quit</string>
+    <string name="minimize">Minimize</string>
+    <string name="cancel">Cancel</string>
+
+    <!--app about information-->
+    <string name="about_app_version" translatable="false">Build Version</string>
+    <string name="sub_about_app_version" translatable="false">Version 3.1.0</string>
+	<string name="app_email" translatable="false">radio@keepone.net</string>
+	 <string name="r_email" translatable="false">report@keepone.net</string>
+    <string name="email" translatable="false">Email</string>
+    <string name="sub_about_app_copyright" translatable="false">Copyright © 2015-2018 Conti Media   All rights reserved..</string>
+    <string name="sub_about_app_email" translatable="false">radio@keepone.net</string>
+
+    <string name="privacy_policy" translatable="false">Privacy Policy</string>
+    <string name="title_contact_us">Contact Us</string>
+    <string name="title_google_play" translatable="false">Google Play</string>
+    <string name="website" translatable="false">Website</string>
+    <string name="website_url" translatable="false">http://keepone.net/</string>
+    <string name="facebook" translatable="false">Facebook</string>
+    <string name="facebook_url" translatable="false">https://www.facebook.com/KeepOneRadio</string>
+    <string name="twitter" translatable="false">Twitter</string>
+    <string name="twitter_url" translatable="false">https://twitter.com/KeepOneRadio</string>
+    <string name="instagram" translatable="false">Instagram</string>
+    <string name="instagram_url" translatable="false">https://www.instagram.com/keeponeradio/</string>
+    <string name="email_address" translatable="false">radio@keepone.net</string>
+    <string name="play_more_apps" translatable="false">https://play.google.com/store/apps/developer?id=Conti+Media</string>
+    <string name="privacy_policy_url" translatable="false">http://keepone.net/privacy</string>
+
+    <!--network & error message-->
+    <string name="failed_title_text" translatable="false">Whoops!</string>
+    <string name="failed_text">An error occurred. Maybe not available in your Country or Radio Station is offline.</string>
+    <string name="no_internet_text">No Internet Connection!</string>
+    <string name="no_category_found">No category found!!</string>
+    <string name="no_post_found">if you want to continue search, please try enter another keyword!</string>
+    <string name="msg_search_input">Please Insert Keyword</string>
+
+    <!--other string tag name-->
+    <string name="now_playing" translatable="false">Now Playing :</string>
+    <string name="share_content">I Would like to share this with you. Here You Can Download This Application from PlayStore </string>
+    <string name="search">Search&#8230;</string>
+    <string name="volume_off" translatable="false">Volume OFF</string>
+    <string name="volume_max" translatable="false">Volume Max</string>
+    <string name="option_set_favorite">Add to Favorite</string>
+    <string name="option_unset_favorite">Remove From Favorite</string>
+    <string name="favorite_added">Added to Favorite</string>
+    <string name="favorite_removed">Removed from Favorite</string>
+    <string name="no_favorite_found">What is your favorite&#8230; ?</string>
+    <string name="option_set_share">Share to Friends</string>
+    <string name="option_set_detail">Details</string>
+    <string name="radio_connection">Connecting to </string>
+    <string name="internet_disabled">Internet Connection is Disabled</string>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="station">Station(s)</string>
+    <string name="sleep_mode_cancel">Cancel it!</string>
+    <string name="sleep_mode_message">There is an alarm !</string>
+    <string name="sleep_mode_minute">minutes.</string>
+    <string name="sleep_mode_no">No, not now</string>
+    <string name="sleep_mode_text">What time do you want to close radio?</string>
+    <string name="sleep_mode_text_close_time">Radio is closed in</string>
+    <string name="sleep_mode_yes">Yes, I want</string>
+    <string name="tab_recent">Recent</string>
+    <string name="drawer_radio_add">Add Radio</string>
+    <string name="drawer_sleep_mode">Set Timer</string>
+    <string name="email_message">is broken, please renew it.</string>
+    <string name="email_problem">No email client installed.</string>
+    <string name="email_subject">is broken - Elliniká Radiófona -</string>
+    <string name="option_send_report">Report broken link</string>
+    <string name="choose_email">Choose an email client from…</string>
+    <string name="radio_add" translatable="false">http://app.berdan.net/addradio.php</string>
+    <string name="fab_favorite">My Favorite</string>
+    <string name="app_screen_hello">"Hello ! "</string>
+    <string name="app_screen1">Welcome to our application, this screen will not come out again, This App uses Google Cookies in order to provide its services, personalize ads and analyze visits. Information on your App usage will be shared with Google. By using this App you agree with the use of cookies.. to search for radio you can use the \"Search\" icon.</string>
+    <string name="app_screen2">Use the icon with three dots on top to add any radios to your favorites, check radio details-current playing song, report a stream error or share with friends.</string>
+    <string name="app_screen2_t">Second step !</string>
+    <string name="app_screen3">With the menu button you can review your favorites, set up timer mode and can check other features.  Happy listening!</string>
+    <string name="app_screen3_t">Last step !</string>
+    <string name="drawer_sleep">Set Timer</string>
+    <string name="rate_title">Rate</string>
+    <string name="rate_message">Please don’t forget vote our app with 5 star in PlayStore to help us improve it..</string>
+    <string name="sleep_mode_remaning">Remaining Time: </string>
+    <string name="sleep_mode_hour">Hour</string>
+    <string name="sleep_mode_min">mins.</string>
+    <string name="drawer_exit">Exit</string>
+    <string name="failed_text_short">An error occurred or Radio Station is offline.</string>
+    <string name="failed_m3u8_stream" translatable="false">No info!</string>
+</resources>

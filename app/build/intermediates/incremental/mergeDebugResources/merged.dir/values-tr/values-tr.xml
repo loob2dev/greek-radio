@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Ana ekrana git"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Yukarı git"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Diğer seçenekler"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Bitti"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Tümünü göster"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Bir uygulama seçin"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"KAPAT"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"AÇ"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Ara…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Sorguyu temizle"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Arama sorgusu"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Ara"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Sorguyu gönder"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Sesli arama"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Şununla paylaş"</string>
+    <string msgid="3300176832234831527" name="abc_shareactionprovider_share_with_application">"<ns1:g id="APPLICATION_NAME">%s</ns1:g> ile paylaş"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Daralt"</string>
+    <string name="app_name">Elliniká Radiófona</string>
+    <string name="app_screen1">Uygulamamıza hoş geldiniz, bu ekran tekrar karşınıza çıkmayacak, Bu uygulama, hizmetlerini sağlamak, reklamları kişiselleştirmek ve trafiği analiz etmek için Google çerezlerini kullanmaktadır. Uygulamayı nasıl kullandığınızla ilgili bilgiler Google ile paylaşılacaktır. Bu uygulamayı kullanarak çerezleri kabul etmiş sayılırsınız. Radyo aramak için Arama simgesine kullanabilirsiniz.</string>
+    <string name="app_screen2">Herhangi bir radyoyu favorilerinize eklemek, yayın hatasını bildirmek veya arkadaşlarınızla paylaşmak için üst üste üç nokta olan simgeyi kullanınız.</string>
+    <string name="app_screen2_t">İkinci Adım !</string>
+    <string name="app_screen3">Menü düğmesi ile favorilerinizi inceleyebilir, Zamanlama modunu kurabilir, ve diğer özelliklerden faydalanabilirsiniz.  Keyifli dinlemeler!</string>
+    <string name="app_screen3_t">Son adım !</string>
+    <string name="app_screen_hello">Merhaba !</string>
+    <string name="cancel">Hayır</string>
+    <string name="choose_email">Lütfen e-mail programı seçin</string>
+    <string msgid="2518680582564677258" name="common_google_play_services_unknown_issue">"<ns1:g id="APP_NAME">%1$s</ns1:g>, Google Play hizmetleriyle ilgili sorun yaşıyor. Lütfen tekrar deneyin."</string>
+    <string name="drawer_about">Uygulama Hakkında</string>
+    <string name="drawer_close">Navigasyonu kapat</string>
+    <string name="drawer_exit">Uygulamayı kapat</string>
+    <string name="drawer_favorite">Favorilerim</string>
+    <string name="drawer_more">Yapımcı Sayfası</string>
+    <string name="drawer_open">Navigasyonu aç</string>
+    <string name="drawer_radio_add">Radyo Ekle</string>
+    <string name="drawer_rate">Puan ver</string>
+    <string name="drawer_recent">Anasayfa</string>
+    <string name="drawer_sleep">Zamanlayıcı - Uyku Modu</string>
+    <string name="drawer_sleep_mode">Zamanlayıcı - Uyku Modu</string>
+    <string name="email_message">yayını mevcut değil, lütfen stream linkini yenileyiniz.</string>
+    <string name="email_problem">E-mail programı bulunamadı</string>
+    <string name="email_subject">yayın yapmıyor - Elliniká Radiófona -</string>
+    <string name="fab_favorite">Favorilerim</string>
+    <string name="failed_text">Bir hata oluştu. Dinlemek istediğiniz radyo yayını kapalı ya da ülkenizde dinlenemiyor olabilir.</string>
+    <string name="failed_text_short">Radyo yayınında bir sorun var</string>
+    <string name="favorite_added">Favorilere eklendi</string>
+    <string name="favorite_removed">Favorilerden silindi.</string>
+    <string msgid="4133737464567140336" name="fcm_fallback_notification_channel_label">"Çeşitli"</string>
+    <string name="internet_disabled">Internet bağlantınız devre dışı</string>
+    <string name="message">Uygulamadan çıkmak istermisiniz?</string>
+    <string name="minimize">Küçült</string>
+    <string name="msg_search_input">Lütfen bir anahtar kelime giriniz</string>
+    <string name="no_category_found">Kategori bulunamadı!</string>
+    <string name="no_favorite_found">Favori listenize herhangi bir radyo eklenmemiş</string>
+    <string name="no_internet_text">Internet bağlantınız yok</string>
+    <string name="no_post_found">Sonuç bulunamadı! Lütfen başka bir anahtar kelime deneyin</string>
+    <string name="option_send_report">Kırık Link Bildir</string>
+    <string name="option_set_detail">Detaylı bilgi</string>
+    <string name="option_set_favorite">Favorilere ekle</string>
+    <string name="option_set_share">Paylaş</string>
+    <string name="option_unset_favorite">Favorilerden kaldır</string>
+    <string name="quit">Çık</string>
+    <string name="radio_connection">Baglanti yapiliyor </string>
+    <string name="rate_message">Uygulamamıza Play Store de 5 puanlı yorum yazmanız  uygulamamızı geliştirmemiz açısından büyük bir destek olacaktır.</string>
+    <string name="rate_title">Puan ver</string>
+    <string msgid="368094699078615544" name="s1">"Resmi kaydet"</string>
+    <string msgid="4550830452390689489" name="s2">"Reklamın, Resim galerisine resim kaydetmesine izin verilsin mi?"</string>
+    <string msgid="2435407834265420668" name="s3">"Kabul et"</string>
+    <string msgid="9167523597401839819" name="s4">"Reddet"</string>
+    <string msgid="1566682516266724847" name="s5">"Takvim etkinliği oluştur"</string>
+    <string msgid="5996672174517137271" name="s6">"Reklamın, takvim etkinliği oluşturmasına izin verilsin mi?"</string>
+    <string msgid="7163549807207034258" name="s7">"Test Reklamı"</string>
+    <string name="search">Ara…</string>
+    <string msgid="146198913615257606" name="search_menu_title">"Ara"</string>
+    <string name="share_content">Seninle uygulamayı paylaşmak istiyorum. İşte Playstore den indirebileceğin download linki</string>
+    <string name="sleep_mode_cancel">Zamanlamayı sil!</string>
+    <string name="sleep_mode_hour">saat</string>
+    <string name="sleep_mode_message">Zaten kurulu bir zamanlama mevcut</string>
+    <string name="sleep_mode_min">dakika.</string>
+    <string name="sleep_mode_minute">dakika sonra kapanacaktır.</string>
+    <string name="sleep_mode_no">Hayır, Daha sonra</string>
+    <string name="sleep_mode_remaning">Kalan süre:</string>
+    <string name="sleep_mode_text">Uygulamanın ne zaman kapanmasını istersiniz?</string>
+    <string name="sleep_mode_text_close_time">Uygulama </string>
+    <string name="sleep_mode_yes">Evet, Aktif et</string>
+    <string name="station">Radyo</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="tab_category">Kategoriler</string>
+    <string name="tab_recent">Son Eklenenler</string>
+    <string name="title_contact_us">İletişim</string>
+</resources>

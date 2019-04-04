@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--Your application name-->
+    <string name="app_name">Elliniká Radiófona</string>
+
+    <!--Your main menu tab name-->
+
+    <!--navigation drawer menu name-->
+    <string name="drawer_recent">Home</string>
+    <string name="drawer_rate">Valutează</string>
+    <string name="drawer_more">Cine suntem</string>
+    <string name="drawer_open">Deschide navigarea</string>
+    <string name="drawer_close">Închide navigarea</string>
+
+    <!--floating action button menu-->
+    <string name="fab_favorite">Preferitele mele</string>
+
+
+    <!--other string tag name-->
+    <string name="search">Caută&#8230;</string>
+    <string name="option_set_favorite">Adaugă la preferitele mele</string>
+    <string name="option_set_share">Distribuie cu prietenii</string>
+    <string name="option_unset_favorite">Şterge din preferitele mele</string>
+    <string name="favorite_added">Adăugat la preferitele mele</string>
+    <string name="favorite_removed">Şters din preferitele mele</string>
+    <string name="radio_connection">Colegat la</string>
+    <string name="internet_disabled">Colegament la internet Disactivat</string>
+    <string name="drawer_radio_add">Adauga Radio</string>
+    <string name="drawer_sleep_mode">Setare temporizator</string>
+    <string name="email_message">is broken, please renew it</string>
+    <string name="email_problem">Nici un client de e-mail instalat.</string>
+    <string name="email_subject">is broken - Elliniká Radiófona -</string>
+    <string name="option_send_report">Rapoarte de radio</string>
+    <string name="choose_email">Alege un client de e-mail de..</string>
+    <string name="drawer_about">Informati despre App</string>
+    <string name="share_content">as vrea să o distribui cu tine. E posibil să descarci aplicația de pe PlayStore</string>
+    <string name="sleep_mode_cancel">Ștergeți cronometrul!</string>
+    <string name="sleep_mode_message">Există un cronometru!</string>
+    <string name="sleep_mode_min">minute.</string>
+    <string name="sleep_mode_no">Nu, nu acum</string>
+    <string name="sleep_mode_text">La ce oră vrei să închidă radio?</string>
+    <string name="sleep_mode_text_close_time">Radio este închis în </string>
+    <string name="sleep_mode_yes">Da, vreau</string>
+    <string name="drawer_exit">Închide Aplicație</string>
+    <string name="tab_recent">Ultimele adăugate</string>
+    <string name="tab_category">Categoria</string>
+    <string name="no_favorite_found">Nu a găsit preferite</string>
+    <string name="drawer_sleep">Setare temporizator</string>
+    <string name="cancel">Nu</string>
+    <string name="quit">Ieșire</string>
+    <string name="message">Pentru a închide aplicația?</string>
+    <string name="minimize">Minimaliza</string>
+    <string name="rate_title">Valutează</string>
+    <string name="rate_message">Pentru a ne ajuta să îmbunătățim această aplicație, vă rugăm să nu uitați să dea 5 stele pe PlayStore</string>
+    <string name="sleep_mode_remaning">Timp rămas:</string>
+    <string name="sleep_mode_hour">ore</string>
+    <string name="drawer_favorite">Preferitele mele</string>
+    <string name="app_screen_hello">Salut !</string>
+    <string name="app_screen2_t">Al doilea pas !</string>
+    <string name="app_screen3_t">Ultimul pas !</string>
+    <string name="app_screen1">Bine ați venit la cererea noastră, Această pagină nu reapare.Această aplicație utilizează cookie-urile Google pentru a-și furniza serviciile, a personaliza anunțurile și a analiza vizitele. Informațiile despre utilizarea aplicației vor fi distribuite companiei Google. Prin utilizarea acestei aplicații sunteți de acord cu utilizarea cookie-urilor. Pentru a căuta radioul, puteți folosi pictograma Căutare.</string>
+    <string name="app_screen2">Utilizați pictograma cu trei puncte pentru a adăuga radiouri la preferințele dvs., a raporta o eroare de transmisie sau a le trimite altor prieteni.</string>
+    <string name="app_screen3">Cu ajutorul butonului de meniu puteți vizualiza preferințele dvs., setați modul temporizator și controlați alte funcții. Ascultați bine!</string>
+    <string name="sleep_mode_minute">minute.</string>
+    <string name="title_contact_us">Contactaţi-ne</string>
+    <string name="failed_text_short">Există o problemă cu acest post de radio</string>
+    <string name="failed_text">S-a produs o eroare. Poate că nu este disponibil în țara dvs. sau o stație radio este offline.</string>
+    <string name="no_internet_text">Nu Este colegament la internet</string>
+    <string name="station">Radio</string>
+    <string name="option_set_detail">Detalii</string>
+    <string name="no_category_found">Nu a fost găsită nici o categorie!</string>
+    <string name="no_post_found">Nu s-au găsit înregistrări! Încercați un alt cuvânt cheie</string>
+    <string name="msg_search_input">Introduceți un cuvânt cheie</string>
+
+</resources>

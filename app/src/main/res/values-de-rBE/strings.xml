@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--Your application name-->
+    <string name="app_name">Elliniká Radiófona</string>
+
+    <!--Your main menu tab name-->
+
+    <!--navigation drawer menu name-->
+    <string name="drawer_recent">Home</string>
+    <string name="drawer_rate">Bewerte es</string>
+    <string name="drawer_more">Weiter..</string>
+    <string name="drawer_open">Öffnen die Navigations-Panel</string>
+    <string name="drawer_close">Schließen die Navigations-Panel</string>
+
+
+     <!--floating action button menu-->
+    <string name="fab_favorite">Meine Favoriten</string>
+
+
+    <!--other string tag name-->
+    <string name="search">Suche&#8230;</string>
+    <string name="option_set_favorite">Zu Favoriten hinzufügen</string>
+    <string name="option_set_share">Teilen</string>
+    <string name="option_unset_favorite">Von Favoriten entfernen</string>
+    <string name="favorite_added">Zu den Favoriten hinzugefügt</string>
+    <string name="favorite_removed">Entfernt von Favoriten</string>
+    <string name="radio_connection">Verbinden mit </string>
+    <string name="internet_disabled">Internet-Verbindung ist deaktiviert</string>
+
+    <string name="choose_email">Wählen Sie eine E-Mail-Client von..</string>
+    <string name="drawer_about">Über App</string>
+    <string name="drawer_radio_add">Radio hinzufügen</string>
+    <string name="drawer_sleep_mode">Set Timer</string>
+    <string name="email_message">funktioniert nicht, erneuern Sie bitte</string>
+    <string name="email_problem">Keine E-Mail-Client installiert.</string>
+    <string name="email_subject">funktioniert nicht - Elliniká Radiófona -</string>
+    <string name="option_send_report">Report Stream</string>
+    <string name="share_content">Ich möchte mit dir teilen, Hier kannst du die Anwendung von PlayStore herunterladen</string>
+    <string name="sleep_mode_cancel">Timer löschen!</string>
+    <string name="sleep_mode_message">Es gibt einen Timer!</string>
+    <string name="sleep_mode_min">min.</string>
+    <string name="sleep_mode_no">Nein, noch nicht</string>
+    <string name="sleep_mode_text">Wann wollen Sie die App schließen?</string>
+    <string name="sleep_mode_text_close_time">App wird in </string>
+    <string name="sleep_mode_yes">Ja, Ich will</string>
+    <string name="drawer_exit">Abmelden</string>
+    <string name="tab_category">Kategorien</string>
+    <string name="tab_recent">Letzte</string>
+    <string name="no_favorite_found">Ihre Favoritenliste ist leer</string>
+    <string name="drawer_sleep">Set Timer</string>
+    <string name="cancel">Nein</string>
+    <string name="quit">Ja!</string>
+    <string name="message">Möchten Sie die Anwendung schließen?</string>
+    <string name="minimize">Minimieren</string>
+    <string name="rate_title">Bewerte es</string>
+    <string name="rate_message">Um uns zu helfen diese Anwendung zu verbessern, bitte vergessen Sie nicht 5 Sterne auf PlayStore zu vergeben.</string>
+    <string name="sleep_mode_remaning">Verbleibende Zeit:</string>
+    <string name="sleep_mode_hour">Std</string>
+    <string name="drawer_favorite">Meine Favoriten</string>
+    <string name="app_screen2_t">Zweiter Schritt !</string>
+    <string name="app_screen3_t">Letzter Schritt !</string>
+    <string name="app_screen_hello">Hallo !</string>
+    <string name="app_screen1">Willkommen in unserer Anwendung, Diese Seite wird nicht wieder erscheinen, Diese App verwendet Cookies von Google, um ihre Dienste bereitzustellen, Anzeigen zu personalisieren und Zugriffe zu analysieren. Informationen darüber, wie Sie die App verwenden, werden an Google weitergegeben. Durch die Nutzung dieser App erklären Sie sich damit einverstanden, dass sie Cookies verwendet.. Für die Suche nach Radio können Sie das Symbol „Suche“ verwenden.</string>
+    <string name="app_screen2">Verwenden Sie das Symbol mit drei Punkten, um Radios zu Ihren Favoriten hinzuzufügen, einen Übertragungsfehler zu melden oder mit Freunden zu teilen.</string>
+    <string name="app_screen3">Mit der Menütaste können Sie Ihre Favoriten ansehen, den Timer-Modus einrichten und weitere Funktionen überprüfen. Fröhliches Zuhören!</string>
+    <string name="sleep_mode_minute">minuten schließen.</string>
+    <string name="title_contact_us">Kontakt</string>
+    <string name="failed_text_short">Es gibt ein Problem mit diesem Radiosender</string>
+    <string name="failed_text">Ein Fehler ist aufgetreten. Vielleicht in deiner Region nicht verfügbar oder Radiosender ist offline.</string>
+    <string name="no_internet_text">Keine Internetverbindung</string>
+    <string name="station">Radiosender</string>
+    <string name="option_set_detail">Details</string>
+    <string name="no_category_found">Keine Kategorie gefunden !!</string>
+    <string name="no_post_found">Keine Einträge gefunden! Bitte versuchen Sie ein anderes Keyword</string>
+    <string name="msg_search_input">Bitte geben Sie ein Stichwort</string>
+
+</resources>

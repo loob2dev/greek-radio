@@ -1,0 +1,11 @@
+#Internal package file, do not edit.
+#Thu Oct 25 21:06:05 CST 2018
+1.base=D\:\\mywork\\Greek Radios\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\19
+0.baseType=DIRECTORY
+1.baseType=DIRECTORY
+count=2
+1.set=DEX
+0.path=consentform.html
+0.set=ASSET
+0.base=D\:\\mywork\\Greek Radios\\app\\build\\intermediates\\assets\\debug
+1.path=classes.dex

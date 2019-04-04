@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--Your application name-->
+    <string name="app_name">Elliniká Radiófona</string>
+
+    <!--Your main menu tab name-->
+
+
+    <!--navigation drawer menu name-->
+    <string name="drawer_recent">Home</string>
+    <string name="drawer_rate">Taxa e do revisão</string>
+    <string name="drawer_more">Mais...</string>
+    <string name="drawer_open">Abra o painel de navegação</string>
+    <string name="drawer_close">Feche o painel de navegação</string>
+
+
+
+    <!--floating action button menu-->
+    <string name="fab_favorite">Meus favoritos</string>
+
+    <!--app about information-->
+
+
+    <!--other string tag name-->
+    <string name="share_content">Eu gostaria de compartilhar isso com você. Aqui você pode baixar este aplicativo a partir PlayStore</string>
+	
+ 	<string name="search">Pesquisa&#8230;</string>
+    <string name="option_set_favorite">Adicionar a Favoritos</string>
+	<string name="option_set_share">Partilhar</string>
+    <string name="option_unset_favorite">Remover dos favoritos</string>
+    <string name="favorite_added">Adicionado aos favoritos</string>
+    <string name="favorite_removed">Removido dos favoritos</string>
+    <string name="radio_connection">Conectar-se com </string>
+    <string name="internet_disabled">Conexão de Internet está desativado</string>
+	
+	
+	
+	
+	    <!-- added by Aykut-->
+	<string name="drawer_sleep_mode">Ajuste o temporizador</string>
+    <string name="drawer_radio_add">Adicionar rádio</string>
+
+	
+	<string name="option_send_report">Reportá-lo como não funciona?</string>
+    <string name="sleep_mode_text">Quando você quiser fechar o aplicativo?</string>
+    <string name="sleep_mode_text_close_time">App vai fechar em </string>
+    <string name="sleep_mode_yes">Sim, eu quero</string>
+    <string name="sleep_mode_no">Não, ainda não</string>
+    <string name="sleep_mode_message">Há um temporizador!</string>
+    <string name="sleep_mode_cancel">Eliminar temporizador!</string>
+    <string name="sleep_mode_min">minutos.</string>
+
+    <string name="choose_email">Escolha um cliente de e-mail por...</string>
+    <string name="email_problem">Nenhum cliente de email instalado.</string>
+    <string name="email_message">is broken, please renew it</string>
+    <string name="email_subject">is broken - Elliniká Radiófona -</string>
+
+    <string name="drawer_about">Sobre o app</string>
+    <string name="drawer_exit">Feche o aplicativo</string>
+    <string name="tab_category">Categorias</string>
+    <string name="tab_recent">Última</string>
+    <string name="no_favorite_found">Sua lista de favoritos está vazia</string>
+    <string name="drawer_sleep">Ajuste o temporizador</string>
+    <string name="cancel">Não</string>
+    <string name="quit">Saída</string>
+    <string name="message">Para fechar o aplicativo?</string>
+    <string name="minimize">Minimizar</string>
+    <string name="rate_title">Taxa e do revisão</string>
+    <string name="rate_message">Para ajudar-nos a melhorar esta aplicação, por favor não se esqueça de dar 5 estrelas em PlayStore.</string>
+    <string name="sleep_mode_hour">Horas</string>
+    <string name="sleep_mode_remaning">Tempo restante:</string>
+    <string name="drawer_favorite">Meus favoritos</string>
+    <string name="app_screen_hello">Olá !</string>
+    <string name="app_screen2_t">Segundo passo !</string>
+    <string name="app_screen3_t">Último passo !</string>
+    <string name="app_screen1">Bem-vindo ao nosso aplicativo, esta página não reaparecerá. Este aplicativo usa cookies do Google para fornecer seus serviços, personalizar anúncios e analisar visitas. As informações sobre o uso do seu aplicativo serão compartilhadas com o Google. Ao usar este aplicativo, você concorda com o uso de cookies .. Para procurar por rádio, você pode usar o ícone Pesquisar.</string>
+    <string name="app_screen2">Use o ícone de três pontos para adicionar rádios aos seus favoritos, denuncie um erro de transmissão ou compartilhe com amigos.</string>
+    <string name="app_screen3">Com o botão de menu, você pode visualizar seus favoritos, definir o modo de timer e verificar outras funções. Escuta feliz!</string>
+    <string name="sleep_mode_minute">minutos.</string>
+    <string name="title_contact_us">Contate-Nos</string>
+    <string name="failed_text_short">Há um problema com esta estação de rádio</string>
+    <string name="failed_text">Ocorreu um erro. Talvez não disponível na sua região ou estação de rádio está offline.</string>
+    <string name="no_internet_text">Não há conexão de Internet</string>
+    <string name="station">Radio</string>
+    <string name="option_set_detail">Detalhes</string>
+    <string name="no_category_found">Nenhuma categoria encontrada !!</string>
+    <string name="no_post_found">Nenhuma entrada encontrada! Por favor, tente outra palavra-chave</string>
+    <string name="msg_search_input">Por favor insira uma palavra-chave</string>
+</resources>

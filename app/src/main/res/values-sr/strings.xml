@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--Your application name-->
+    <string name="app_name">Elliniká Radiófona</string>
+
+    <!--Your main menu tab name-->
+
+    <!--navigation drawer menu name-->
+    <string name="drawer_recent">Stranica</string>
+    <string name="drawer_rate">Ocenite</string>
+    <string name="drawer_more">O Nama</string>
+    <string name="drawer_open">Otvori navigacija</string>
+    <string name="drawer_close">Zatvori navigaciju</string>
+
+    <!--floating action button menu-->
+    <string name="fab_favorite">Mojih Favoriti</string>
+
+
+    <!--other string tag name-->
+    <string name="search">Pretraživanje&#8230;</string>
+    <string name="option_set_favorite">Dodaj u moje favorite</string>
+    <string name="option_set_share">Podeli sa prijateljima</string>
+    <string name="option_unset_favorite">Uklonite iz mojih favorite</string>
+    <string name="favorite_added">Dodato u favorite</string>
+    <string name="favorite_removed">Uklonjeno iz favorite</string>
+    <string name="radio_connection">Povezivanje sa </string>
+    <string name="internet_disabled">Internet konekcija je Isključen</string>
+    <string name="drawer_about">O Nama</string>
+    <string name="choose_email">Izaberite e - mail klijent...</string>
+    <string name="drawer_radio_add">Add Radio</string>
+    <string name="drawer_sleep_mode">Set Tajmer</string>
+    <string name="email_message">ne radi, ažuriranje molim</string>
+    <string name="email_problem">Instalirana email klijent .</string>
+    <string name="email_subject">ne radi - Elliniká Radiófona -</string>
+    <string name="option_send_report">Izveštaji se kao ne radi</string>
+    <string name="share_content">Želeo bih da ovo podelim sa vama . Ovde možete preuzeti aplikaciju sa PlayStore </string>
+    <string name="sleep_mode_cancel">Izbriši tajmer!</string>
+    <string name="sleep_mode_message">Postoji tajmer!</string>
+    <string name="sleep_mode_min">minuta.</string>
+    <string name="sleep_mode_no">Ne , ne još</string>
+    <string name="sleep_mode_text">Kada želite da zatvorite aplikaciju ?</string>
+    <string name="sleep_mode_text_close_time">Aplikacija je zatvoren za</string>
+    <string name="sleep_mode_yes">Da, želim</string>
+    <string name="drawer_exit">Zatvorite aplikaciju</string>
+    <string name="tab_recent">Najnovije</string>
+    <string name="tab_category">Kategorije</string>
+    <string name="no_favorite_found">On je našao favorite</string>
+    <string name="drawer_sleep">Set Tajmer</string>
+    <string name="cancel">Ne</string>
+    <string name="quit">излаз</string>
+    <string name="message">Da biste zatvorili aplikaciju?</string>
+    <string name="minimize">Minimizira</string>
+    <string name="rate_title">Ocenite</string>
+    <string name="rate_message">Да нам помогне да побољшамо ове апликације, не заборавите да дате 5 звјездица на ПлаиСторе - Da nam pomoći da poboljšamo ove aplikacije, ne zaboravite da date 5 zvezdica na PlayStore</string>
+    <string name="sleep_mode_remaning">Preostalo vreme:</string>
+    <string name="sleep_mode_hour">Sati</string>
+    <string name="drawer_favorite">Mojih Favoriti</string>
+    <string name="app_screen_hello">Zdravo !</string>
+    <string name="app_screen2_t">Drugi korak!</string>
+    <string name="app_screen3_t">Poslednji korak !</string>
+    <string name="app_screen1">Dobrodošli u našu aplikaciju, Ova stranica se ne pojavljuje ponovo. Ova aplikacija koristi Google kolačiće kako bi pružila svoje usluge, personalizovala oglase i analizirala posete. Informacije o vašoj upotrebi aplikacije deleće se sa Google-om. Koristeći ovu aplikaciju, slažete se sa upotrebom kolačića .. Da biste pretražili radio, možete koristiti ikonu Traži.</string>
+    <string name="app_screen2">Koristite ikonu sa tri tačke da biste dodali radio na svoje omiljene, prijavili grešku prijenosa ili dijelili sa prijateljima.</string>
+    <string name="app_screen3">Sa dugmetom menija možete pogledati svoje omiljene, podesiti režim tajmera i kontrolisati ostale funkcije. Dobro slušanje!</string>
+    <string name="sleep_mode_minute">minuta.</string>
+    <string name="title_contact_us">Kontaktirajte nas</string>
+    <string name="failed_text_short">Postoji problem sa ovim radio stanice</string>
+    <string name="failed_text">Došlo je do greške. Možda nije dostupan u vašoj zemlji ili radio stanica je odsutan.</string>
+    <string name="no_internet_text">Nema internet vezu</string>
+    <string name="station">Stanica</string>
+    <string name="option_set_detail">Detalji</string>
+    <string name="no_category_found">Nijedna kategorija nije pronađena !!</string>
+    <string name="no_post_found">Nema unosa unosa! Molimo pokušajte još jednu ključnu reč</string>
+    <string name="msg_search_input">Molimo unesite ključnu reč</string>
+
+</resources>

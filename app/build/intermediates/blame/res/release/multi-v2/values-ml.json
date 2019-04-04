@@ -1,0 +1,94 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\mywork\\Greek Radios\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-ml\\values-ml.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\bee\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-basement-11.8.0.aar\\48a6de2ada02adf8342556ccdca8787a\\res\\values-ml\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "283",
+                        "endColumns": "218",
+                        "endOffsets": "501"
+                    },
+                    "to": {
+                        "startLines": "19",
+                        "startColumns": "4",
+                        "startOffsets": "1922",
+                        "endColumns": "218",
+                        "endOffsets": "2136"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\bee\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-ads-11.8.0.aar\\60bdc3172f54862f010f5b18b1cfb1af\\res\\values-ml\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10",
+                        "startColumns": "0,0,0,0,0,0,0",
+                        "startOffsets": "235,311,428,498,566,649,755",
+                        "endColumns": "75,116,69,67,82,105,76",
+                        "endOffsets": "310,427,497,565,648,754,831"
+                    },
+                    "to": {
+                        "startLines": "21,22,23,24,25,26,27",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "2244,2324,2445,2519,2591,2678,2788",
+                        "endColumns": "79,120,73,71,86,109,80",
+                        "endOffsets": "2319,2440,2514,2586,2673,2783,2864"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\bee\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\c07ec83aebc6f990526be9d1b6d482a4\\res\\values-ml\\values-ml.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,224,342,457,550,655,787,864,940,1022,1133,1239,1337,1451,1551,1662,1821,1922",
+                        "endColumns": "118,117,114,92,104,131,76,75,81,110,105,97,113,99,110,158,100,81",
+                        "endOffsets": "219,337,452,545,650,782,859,935,1017,1128,1234,1332,1446,1546,1657,1816,1917,1999"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,28",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,224,342,457,550,655,787,864,940,1022,1133,1239,1337,1451,1551,1662,1821,2869",
+                        "endColumns": "118,117,114,92,104,131,76,75,81,110,105,97,113,99,110,158,100,81",
+                        "endOffsets": "219,337,452,545,650,782,859,935,1017,1128,1234,1332,1446,1546,1657,1816,1917,2946"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\bee\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\51cb387048942467cf3964f6bb419ae8\\res\\values-ml\\values-ml.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "29",
+                        "startColumns": "4",
+                        "startOffsets": "2951",
+                        "endColumns": "100",
+                        "endOffsets": "3047"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\bee\\.gradle\\caches\\transforms-1\\files-1.1\\firebase-messaging-11.8.0.aar\\9e053df295caea67f8fc0f12bed623ba\\res\\values-ml\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "241",
+                        "endColumns": "98",
+                        "endOffsets": "339"
+                    },
+                    "to": {
+                        "startLines": "20",
+                        "startColumns": "4",
+                        "startOffsets": "2141",
+                        "endColumns": "102",
+                        "endOffsets": "2239"
+                    }
+                }
+            ]
+        }
+    ]
+}

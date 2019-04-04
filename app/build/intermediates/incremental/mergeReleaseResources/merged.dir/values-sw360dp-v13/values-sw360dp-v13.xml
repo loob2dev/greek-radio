@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="exomedia_big_notification_button_spacing">44dp</dimen>
+    <dimen name="wel_text_bottom_padding">24dp</dimen>
+    <dimen name="wel_text_top_padding">24dp</dimen>
+</resources>

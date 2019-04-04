@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Перейти на главный экран"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Перейти вверх"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Другие параметры"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Готово"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Показать все"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Выбрать приложение"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"ОТКЛ."</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"ВКЛ."</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Поиск"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Удалить запрос"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Поисковый запрос"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Поиск"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Отправить запрос"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Голосовой поиск"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Открыть доступ"</string>
+    <string msgid="3300176832234831527" name="abc_shareactionprovider_share_with_application">"Открыть доступ приложению \"<ns1:g id="APPLICATION_NAME">%s</ns1:g>\""</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Свернуть"</string>
+    <string name="app_name">Elliniká Radiófona</string>
+    <string name="app_screen1">Добро пожаловать в приложение! Для того, чтобы этот экран не всплывал вновь, вы можете воспользоваться значком «Поиск» для поиска радио. Это приложение использует Google Cookies для предоставления своих услуг, персонализации рекламы и анализа посещений. Информация о вашем использовании приложения будет предоставлена Google. Используя это приложение, вы соглашаетесь с использованием файлов cookie.. Достаточно будет написать название радио и нажать «поиск».</string>
+    <string name="app_screen2">Для того, чтобы добавить понравившуюся радиостанцию, сообщить об ошибке, поделиться с друзьями, используйте значок три точки, который находится в самом верху.</string>
+    <string name="app_screen2_t">Второй шаг !</string>
+    <string name="app_screen3">С помощью кнопки Меню можно посмотреть Ваши закладки, установить режим расписания, а также использовать другие функции.</string>
+    <string name="app_screen3_t">Последний шаг !</string>
+    <string name="app_screen_hello">Привет !</string>
+    <string name="cancel">нет</string>
+    <string name="choose_email">Выберите клиент электронной почты ...</string>
+    <string msgid="2518680582564677258" name="common_google_play_services_unknown_issue">"Приложению \"<ns1:g id="APP_NAME">%1$s</ns1:g>\" не удается подключиться к сервисам Google Play. Повторите попытку."</string>
+    <string name="drawer_about">Кто мы</string>
+    <string name="drawer_close">Закрыть навигации</string>
+    <string name="drawer_exit">Закройте приложение</string>
+    <string name="drawer_favorite">Моё избранное</string>
+    <string name="drawer_more">Кто мы</string>
+    <string name="drawer_open">Открыть навигации</string>
+    <string name="drawer_radio_add">Добавить Радио</string>
+    <string name="drawer_rate">Оценить</string>
+    <string name="drawer_recent">Домашняя страница</string>
+    <string name="drawer_sleep">Установить таймер</string>
+    <string name="drawer_sleep_mode">Установить таймер</string>
+    <string name="email_message">is broken, please renew it</string>
+    <string name="email_problem">No email client installed.</string>
+    <string name="email_subject">is broken - Elliniká Radiófona -</string>
+    <string name="fab_favorite">Моё избранное</string>
+    <string name="failed_text">Произошла ошибка. Может Hедоступно в вашем регионе или радиостанции отсутствует.</string>
+    <string name="failed_text_short">Существует проблема с этой радиостанции</string>
+    <string name="favorite_added">Добавлено в избранное</string>
+    <string name="favorite_removed">Удаленное избранное</string>
+    <string msgid="4133737464567140336" name="fcm_fallback_notification_channel_label">"Другое"</string>
+    <string name="internet_disabled">Отключить подключение к интернету</string>
+    <string name="message">Чтобы закрыть приложение?</string>
+    <string name="minimize">Mинимизировать</string>
+    <string name="msg_search_input">Введите ключевое слово</string>
+    <string name="no_category_found">Не найдено ни одной категории!</string>
+    <string name="no_favorite_found">В избранное ничего не добавлено</string>
+    <string name="no_internet_text">Нет подключения к интернету</string>
+    <string name="no_post_found">Записей не найдено! Попробуйте другое ключевое слово</string>
+    <string name="option_send_report">Отчет поток</string>
+    <string name="option_set_detail">Детали</string>
+    <string name="option_set_favorite">Добавить в избранное</string>
+    <string name="option_set_share">Поделиться</string>
+    <string name="option_unset_favorite">Удалить из избранного</string>
+    <string name="quit">выход</string>
+    <string name="radio_connection">Подключение осуществляется</string>
+    <string name="rate_message">Для того, чтобы помочь нам улучшить это приложение, не забудьте дать 5 звезд на PlayStore</string>
+    <string name="rate_title">Оценить</string>
+    <string msgid="368094699078615544" name="s1">"Сохранить изображение"</string>
+    <string msgid="4550830452390689489" name="s2">"Разрешить объявлению сохранить изображение в галерее?"</string>
+    <string msgid="2435407834265420668" name="s3">"Разрешить"</string>
+    <string msgid="9167523597401839819" name="s4">"Отклонить"</string>
+    <string msgid="1566682516266724847" name="s5">"Создать мероприятие"</string>
+    <string msgid="5996672174517137271" name="s6">"Разрешить объявлению создать мероприятие в календаре?"</string>
+    <string msgid="7163549807207034258" name="s7">"Тестовое объявление"</string>
+    <string name="search">Поиск…</string>
+    <string msgid="146198913615257606" name="search_menu_title">"Поиск"</string>
+    <string name="share_content">Я хотел поделиться  с тобой. Вот адрес Google Play Store</string>
+    <string name="sleep_mode_cancel">Удалить таймер!</string>
+    <string name="sleep_mode_hour">часов</string>
+    <string name="sleep_mode_message">Есть таймер!</string>
+    <string name="sleep_mode_min">минут.</string>
+    <string name="sleep_mode_minute">минут.</string>
+    <string name="sleep_mode_no">Еще нет</string>
+    <string name="sleep_mode_remaning">Оставшееся время:</string>
+    <string name="sleep_mode_text">Если вы хотите, чтобы закрыть приложение?</string>
+    <string name="sleep_mode_text_close_time">Применение закрывается через</string>
+    <string name="sleep_mode_yes">Да я хочу</string>
+    <string name="station">радио</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">">999"</string>
+    <string name="tab_category">Категории</string>
+    <string name="tab_recent">Недавно добавленные</string>
+    <string name="title_contact_us">Свяжитесь с нами</string>
+</resources>

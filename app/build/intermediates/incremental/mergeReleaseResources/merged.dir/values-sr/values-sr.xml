@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Одлазак на Почетну"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Кретање нагоре"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Још опција"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Готово"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Прикажи све"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Избор апликације"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"ИСКЉУЧИ"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"УКЉУЧИ"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Претражите..."</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Брисање упита"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Упит за претрагу"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Претрага"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Слање упита"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Гласовна претрага"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Дели са"</string>
+    <string msgid="3300176832234831527" name="abc_shareactionprovider_share_with_application">"Дељење са апликацијом <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Скупи"</string>
+    <string name="app_name">Elliniká Radiófona</string>
+    <string name="app_screen1">Dobrodošli u našu aplikaciju, Ova stranica se ne pojavljuje ponovo. Ova aplikacija koristi Google kolačiće kako bi pružila svoje usluge, personalizovala oglase i analizirala posete. Informacije o vašoj upotrebi aplikacije deleće se sa Google-om. Koristeći ovu aplikaciju, slažete se sa upotrebom kolačića .. Da biste pretražili radio, možete koristiti ikonu Traži.</string>
+    <string name="app_screen2">Koristite ikonu sa tri tačke da biste dodali radio na svoje omiljene, prijavili grešku prijenosa ili dijelili sa prijateljima.</string>
+    <string name="app_screen2_t">Drugi korak!</string>
+    <string name="app_screen3">Sa dugmetom menija možete pogledati svoje omiljene, podesiti režim tajmera i kontrolisati ostale funkcije. Dobro slušanje!</string>
+    <string name="app_screen3_t">Poslednji korak !</string>
+    <string name="app_screen_hello">Zdravo !</string>
+    <string name="cancel">Ne</string>
+    <string name="choose_email">Izaberite e - mail klijent...</string>
+    <string msgid="2518680582564677258" name="common_google_play_services_unknown_issue">"<ns1:g id="APP_NAME">%1$s</ns1:g> има проблема са Google Play услугама. Пробајте поново."</string>
+    <string name="drawer_about">O Nama</string>
+    <string name="drawer_close">Zatvori navigaciju</string>
+    <string name="drawer_exit">Zatvorite aplikaciju</string>
+    <string name="drawer_favorite">Mojih Favoriti</string>
+    <string name="drawer_more">O Nama</string>
+    <string name="drawer_open">Otvori navigacija</string>
+    <string name="drawer_radio_add">Add Radio</string>
+    <string name="drawer_rate">Ocenite</string>
+    <string name="drawer_recent">Stranica</string>
+    <string name="drawer_sleep">Set Tajmer</string>
+    <string name="drawer_sleep_mode">Set Tajmer</string>
+    <string name="email_message">ne radi, ažuriranje molim</string>
+    <string name="email_problem">Instalirana email klijent .</string>
+    <string name="email_subject">ne radi - Elliniká Radiófona -</string>
+    <string name="fab_favorite">Mojih Favoriti</string>
+    <string name="failed_text">Došlo je do greške. Možda nije dostupan u vašoj zemlji ili radio stanica je odsutan.</string>
+    <string name="failed_text_short">Postoji problem sa ovim radio stanice</string>
+    <string name="favorite_added">Dodato u favorite</string>
+    <string name="favorite_removed">Uklonjeno iz favorite</string>
+    <string msgid="4133737464567140336" name="fcm_fallback_notification_channel_label">"Разно"</string>
+    <string name="internet_disabled">Internet konekcija je Isključen</string>
+    <string name="message">Da biste zatvorili aplikaciju?</string>
+    <string name="minimize">Minimizira</string>
+    <string name="msg_search_input">Molimo unesite ključnu reč</string>
+    <string name="no_category_found">Nijedna kategorija nije pronađena !!</string>
+    <string name="no_favorite_found">On je našao favorite</string>
+    <string name="no_internet_text">Nema internet vezu</string>
+    <string name="no_post_found">Nema unosa unosa! Molimo pokušajte još jednu ključnu reč</string>
+    <string name="option_send_report">Izveštaji se kao ne radi</string>
+    <string name="option_set_detail">Detalji</string>
+    <string name="option_set_favorite">Dodaj u moje favorite</string>
+    <string name="option_set_share">Podeli sa prijateljima</string>
+    <string name="option_unset_favorite">Uklonite iz mojih favorite</string>
+    <string name="quit">излаз</string>
+    <string name="radio_connection">Povezivanje sa </string>
+    <string name="rate_message">Да нам помогне да побољшамо ове апликације, не заборавите да дате 5 звјездица на ПлаиСторе - Da nam pomoći da poboljšamo ove aplikacije, ne zaboravite da date 5 zvezdica na PlayStore</string>
+    <string name="rate_title">Ocenite</string>
+    <string msgid="368094699078615544" name="s1">"Чување слике"</string>
+    <string msgid="4550830452390689489" name="s2">"Желите ли да дозволите да оглас сачува слику у Галерији слика?"</string>
+    <string msgid="2435407834265420668" name="s3">"Прихвати"</string>
+    <string msgid="9167523597401839819" name="s4">"Одбиј"</string>
+    <string msgid="1566682516266724847" name="s5">"Прављење догађаја у календару"</string>
+    <string msgid="5996672174517137271" name="s6">"Желите ли да дозволите да оглас направи догађај у календару?"</string>
+    <string msgid="7163549807207034258" name="s7">"Пробни оглас"</string>
+    <string name="search">Pretraživanje…</string>
+    <string msgid="146198913615257606" name="search_menu_title">"Претражи"</string>
+    <string name="share_content">Želeo bih da ovo podelim sa vama . Ovde možete preuzeti aplikaciju sa PlayStore </string>
+    <string name="sleep_mode_cancel">Izbriši tajmer!</string>
+    <string name="sleep_mode_hour">Sati</string>
+    <string name="sleep_mode_message">Postoji tajmer!</string>
+    <string name="sleep_mode_min">minuta.</string>
+    <string name="sleep_mode_minute">minuta.</string>
+    <string name="sleep_mode_no">Ne , ne još</string>
+    <string name="sleep_mode_remaning">Preostalo vreme:</string>
+    <string name="sleep_mode_text">Kada želite da zatvorite aplikaciju ?</string>
+    <string name="sleep_mode_text_close_time">Aplikacija je zatvoren za</string>
+    <string name="sleep_mode_yes">Da, želim</string>
+    <string name="station">Stanica</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">">999"</string>
+    <string name="tab_category">Kategorije</string>
+    <string name="tab_recent">Najnovije</string>
+    <string name="title_contact_us">Kontaktirajte nas</string>
+</resources>

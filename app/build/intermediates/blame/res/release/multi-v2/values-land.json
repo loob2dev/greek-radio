@@ -1,0 +1,55 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\mywork\\Greek Radios\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-land\\values-land.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\bee\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.1.aar\\67b582be73d5eba1f3b660ef1e5a0eec\\res\\values-land\\values-land.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "232"
+                    },
+                    "to": {
+                        "startLines": "8",
+                        "startColumns": "4",
+                        "startOffsets": "433",
+                        "endLines": "11",
+                        "endColumns": "12",
+                        "endOffsets": "610"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\bee\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\c07ec83aebc6f990526be9d1b6d482a4\\res\\values-land\\values-land.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,125,189,260",
+                        "endColumns": "69,63,70,67",
+                        "endOffsets": "120,184,255,323"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\bee\\.gradle\\caches\\transforms-1\\files-1.1\\welcome-1.4.1.aar\\7703045b76dfd660c77b3f37e3a0e926\\res\\values-land\\values-land.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,109",
+                        "endColumns": "53,50",
+                        "endOffsets": "104,155"
+                    },
+                    "to": {
+                        "startLines": "6,7",
+                        "startColumns": "4,4",
+                        "startOffsets": "328,382",
+                        "endColumns": "53,50",
+                        "endOffsets": "377,428"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Navigeren naar startpositie"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Omhoog navigeren"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Meer opties"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Gereed"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Alles weergeven"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Een app selecteren"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"UIT"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"AAN"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Zoeken…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Zoekopdracht wissen"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Zoekopdracht"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Zoeken"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Zoekopdracht verzenden"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Gesproken zoekopdracht"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Delen met"</string>
+    <string msgid="3300176832234831527" name="abc_shareactionprovider_share_with_application">"Delen met <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Samenvouwen"</string>
+    <string name="app_name">Elliniká Radiófona</string>
+    <string name="app_screen1">"Welkom bij onze applicatie, deze pagina verschijnt niet meer. Deze App maakt gebruik van cookies van Google om hun diensten te leveren, advertenties te personaliseren en verkeer te analyseren. Informatie over hoe u de App gebruikt, wordt gedeeld met Google. Door deze App te gebruiken, gaat u ermee akkoord om cookies te gebruiken. Om te zoeken naar de radio, kunt u het pictogram Zoeken gebruiken.  "</string>
+    <string name="app_screen2">Gebruik het driepuntspictogram om radio\'s aan uw favorieten toe te voegen, een verzendingsfout te melden of te delen met vrienden.</string>
+    <string name="app_screen2_t">Tweede stap !</string>
+    <string name="app_screen3">Met de menuknop kunt u uw favorieten bekijken, de timer-modus instellen en andere functies bedienen. Goed luisteren!</string>
+    <string name="app_screen3_t">Laatste stap !</string>
+    <string name="app_screen_hello">Hallo !</string>
+    <string name="cancel">Nee</string>
+    <string name="choose_email">Kies een e-mailclient van...</string>
+    <string msgid="2518680582564677258" name="common_google_play_services_unknown_issue">"<ns1:g id="APP_NAME">%1$s</ns1:g> ondervindt problemen met Google Play-services. Probeer het opnieuw."</string>
+    <string name="drawer_about">Over de App</string>
+    <string name="drawer_close">Sluit het navigatiepaneel</string>
+    <string name="drawer_exit">Afmelden</string>
+    <string name="drawer_favorite">Mijn favorieten</string>
+    <string name="drawer_more">Verder..</string>
+    <string name="drawer_open">Open het navigatiepaneel</string>
+    <string name="drawer_radio_add">Add Radio</string>
+    <string name="drawer_rate">Tarief en review</string>
+    <string name="drawer_recent">Home</string>
+    <string name="drawer_sleep">Set Timer</string>
+    <string name="drawer_sleep_mode">Set Timer</string>
+    <string name="email_message">is broken, please renew it</string>
+    <string name="email_problem">Geen e-mailclient geïnstalleerd.</string>
+    <string name="email_subject">is broken - Elliniká Radiófona -</string>
+    <string name="fab_favorite">Mijn favorieten</string>
+    <string name="failed_text">Er is een fout opgetreden. Misschien niet beschikbaar op jouw locatie of Radiostation is offline.</string>
+    <string name="failed_text_short">Er is een probleem met betrekking tot deze radiozender</string>
+    <string name="favorite_added">Toegevoegd aan je favorieten</string>
+    <string name="favorite_removed">Mijn favoriet is verwijderd.</string>
+    <string msgid="4133737464567140336" name="fcm_fallback_notification_channel_label">"Overige"</string>
+    <string name="internet_disabled">Internet-verbinding is uitgeschakeld</string>
+    <string name="message">Om de toepassing te sluiten?</string>
+    <string name="minimize">Verkleinen</string>
+    <string name="msg_search_input">Voer een trefwoord in</string>
+    <string name="no_category_found">Geen categorie gevonden !!</string>
+    <string name="no_favorite_found">Uw favorietenlijst is leeg</string>
+    <string name="no_internet_text">Geen internetverbinding</string>
+    <string name="no_post_found">Geen resultaat gevonden! Probeer een ander trefwoord</string>
+    <string name="option_send_report">Radio werkt niet</string>
+    <string name="option_set_detail">Details</string>
+    <string name="option_set_favorite">Voeg toe aan favorieten</string>
+    <string name="option_set_share">Delen</string>
+    <string name="option_unset_favorite">Verwijderen uit favorieten</string>
+    <string name="quit">Afrit</string>
+    <string name="radio_connection">Verbinden met </string>
+    <string name="rate_message">Om ons te helpen deze toepassing te verbeteren, vergeet dan niet om 5 sterren in PlayStore geven</string>
+    <string name="rate_title">Tarief en review</string>
+    <string msgid="368094699078615544" name="s1">"Afbeelding opslaan"</string>
+    <string msgid="4550830452390689489" name="s2">"Advertentie toestaan om afbeelding op te slaan in fotogalerij?"</string>
+    <string msgid="2435407834265420668" name="s3">"Accepteren"</string>
+    <string msgid="9167523597401839819" name="s4">"Weigeren"</string>
+    <string msgid="1566682516266724847" name="s5">"Agenda-afspraak maken"</string>
+    <string msgid="5996672174517137271" name="s6">"Advertentie toestaan om een agenda-afspraak te maken?"</string>
+    <string msgid="7163549807207034258" name="s7">"Testadvertentie"</string>
+    <string name="search">Zoek…</string>
+    <string msgid="146198913615257606" name="search_menu_title">"Zoeken"</string>
+    <string name="share_content">Ik wil met u delen, kunt u hier de toepassing van de PlayStore</string>
+    <string name="sleep_mode_cancel">Timer verwijderen!</string>
+    <string name="sleep_mode_hour">uren</string>
+    <string name="sleep_mode_message">Er is een timer!</string>
+    <string name="sleep_mode_min">mins</string>
+    <string name="sleep_mode_minute">minuten.</string>
+    <string name="sleep_mode_no">Nee nog niet</string>
+    <string name="sleep_mode_remaning">Overgebleven tijd:</string>
+    <string name="sleep_mode_text">Welke tijd wilt u radio sluiten?</string>
+    <string name="sleep_mode_text_close_time">App zal sluiten in</string>
+    <string name="sleep_mode_yes">Ja wil ik</string>
+    <string name="station">Radio</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="tab_category">Categorieën</string>
+    <string name="tab_recent">Laatste</string>
+    <string name="title_contact_us">Contacteer ons</string>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">830583505956-15diclpmov2tii9aj7flbe0p2voa8s9k.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://greek-radios.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">830583505956</string>
+    <string name="google_api_key" translatable="false">AIzaSyBYyTUT05QvBj5Mkv1yosC2KhQBrAphq3E</string>
+    <string name="google_app_id" translatable="false">1:830583505956:android:f030055d132672d4</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBYyTUT05QvBj5Mkv1yosC2KhQBrAphq3E</string>
+    <string name="google_storage_bucket" translatable="false">greek-radios.appspot.com</string>
+    <string name="project_id" translatable="false">greek-radios</string>
+</resources>

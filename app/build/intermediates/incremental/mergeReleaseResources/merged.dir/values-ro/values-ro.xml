@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Navigați la ecranul de pornire"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Navigați în sus"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Mai multe opțiuni"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Terminat"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Afișați-le pe toate"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Alegeți o aplicație"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"DEZACTIVAȚI"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"ACTIVAT"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Căutați…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Ștergeți interogarea"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Interogare de căutare"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Căutați"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Trimiteți interogarea"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Căutare vocală"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Trimiteți la"</string>
+    <string msgid="3300176832234831527" name="abc_shareactionprovider_share_with_application">"Trimiteți folosind <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Restrângeți"</string>
+    <string name="app_name">Elliniká Radiófona</string>
+    <string name="app_screen1">Bine ați venit la cererea noastră, Această pagină nu reapare.Această aplicație utilizează cookie-urile Google pentru a-și furniza serviciile, a personaliza anunțurile și a analiza vizitele. Informațiile despre utilizarea aplicației vor fi distribuite companiei Google. Prin utilizarea acestei aplicații sunteți de acord cu utilizarea cookie-urilor. Pentru a căuta radioul, puteți folosi pictograma Căutare.</string>
+    <string name="app_screen2">Utilizați pictograma cu trei puncte pentru a adăuga radiouri la preferințele dvs., a raporta o eroare de transmisie sau a le trimite altor prieteni.</string>
+    <string name="app_screen2_t">Al doilea pas !</string>
+    <string name="app_screen3">Cu ajutorul butonului de meniu puteți vizualiza preferințele dvs., setați modul temporizator și controlați alte funcții. Ascultați bine!</string>
+    <string name="app_screen3_t">Ultimul pas !</string>
+    <string name="app_screen_hello">Salut !</string>
+    <string name="cancel">Nu</string>
+    <string name="choose_email">Alege un client de e-mail de..</string>
+    <string msgid="2518680582564677258" name="common_google_play_services_unknown_issue">"<ns1:g id="APP_NAME">%1$s</ns1:g> întâmpină probleme privind serviciile Google Play. Încercați din nou."</string>
+    <string name="drawer_about">Informati despre App</string>
+    <string name="drawer_close">Închide navigarea</string>
+    <string name="drawer_exit">Închide Aplicație</string>
+    <string name="drawer_favorite">Preferitele mele</string>
+    <string name="drawer_more">Cine suntem</string>
+    <string name="drawer_open">Deschide navigarea</string>
+    <string name="drawer_radio_add">Adauga Radio</string>
+    <string name="drawer_rate">Valutează</string>
+    <string name="drawer_recent">Home</string>
+    <string name="drawer_sleep">Setare temporizator</string>
+    <string name="drawer_sleep_mode">Setare temporizator</string>
+    <string name="email_message">is broken, please renew it</string>
+    <string name="email_problem">Nici un client de e-mail instalat.</string>
+    <string name="email_subject">is broken - Elliniká Radiófona -</string>
+    <string name="fab_favorite">Preferitele mele</string>
+    <string name="failed_text">S-a produs o eroare. Poate că nu este disponibil în țara dvs. sau o stație radio este offline.</string>
+    <string name="failed_text_short">Există o problemă cu acest post de radio</string>
+    <string name="favorite_added">Adăugat la preferitele mele</string>
+    <string name="favorite_removed">Şters din preferitele mele</string>
+    <string msgid="4133737464567140336" name="fcm_fallback_notification_channel_label">"Diverse"</string>
+    <string name="internet_disabled">Colegament la internet Disactivat</string>
+    <string name="message">Pentru a închide aplicația?</string>
+    <string name="minimize">Minimaliza</string>
+    <string name="msg_search_input">Introduceți un cuvânt cheie</string>
+    <string name="no_category_found">Nu a fost găsită nici o categorie!</string>
+    <string name="no_favorite_found">Nu a găsit preferite</string>
+    <string name="no_internet_text">Nu Este colegament la internet</string>
+    <string name="no_post_found">Nu s-au găsit înregistrări! Încercați un alt cuvânt cheie</string>
+    <string name="option_send_report">Rapoarte de radio</string>
+    <string name="option_set_detail">Detalii</string>
+    <string name="option_set_favorite">Adaugă la preferitele mele</string>
+    <string name="option_set_share">Distribuie cu prietenii</string>
+    <string name="option_unset_favorite">Şterge din preferitele mele</string>
+    <string name="quit">Ieșire</string>
+    <string name="radio_connection">Colegat la</string>
+    <string name="rate_message">Pentru a ne ajuta să îmbunătățim această aplicație, vă rugăm să nu uitați să dea 5 stele pe PlayStore</string>
+    <string name="rate_title">Valutează</string>
+    <string msgid="368094699078615544" name="s1">"Salvați imaginea"</string>
+    <string msgid="4550830452390689489" name="s2">"Permiteți ca anunțul să stocheze imaginea în Galeria de fotografii?"</string>
+    <string msgid="2435407834265420668" name="s3">"Acceptați"</string>
+    <string msgid="9167523597401839819" name="s4">"Refuzați"</string>
+    <string msgid="1566682516266724847" name="s5">"Creați un eveniment în calendar"</string>
+    <string msgid="5996672174517137271" name="s6">"Permiteți ca anunțul să creeze un eveniment în calendar?"</string>
+    <string msgid="7163549807207034258" name="s7">"Anunț de probă"</string>
+    <string name="search">Caută…</string>
+    <string msgid="146198913615257606" name="search_menu_title">"Căutați"</string>
+    <string name="share_content">as vrea să o distribui cu tine. E posibil să descarci aplicația de pe PlayStore</string>
+    <string name="sleep_mode_cancel">Ștergeți cronometrul!</string>
+    <string name="sleep_mode_hour">ore</string>
+    <string name="sleep_mode_message">Există un cronometru!</string>
+    <string name="sleep_mode_min">minute.</string>
+    <string name="sleep_mode_minute">minute.</string>
+    <string name="sleep_mode_no">Nu, nu acum</string>
+    <string name="sleep_mode_remaning">Timp rămas:</string>
+    <string name="sleep_mode_text">La ce oră vrei să închidă radio?</string>
+    <string name="sleep_mode_text_close_time">Radio este închis în </string>
+    <string name="sleep_mode_yes">Da, vreau</string>
+    <string name="station">Radio</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"˃999"</string>
+    <string name="tab_category">Categoria</string>
+    <string name="tab_recent">Ultimele adăugate</string>
+    <string name="title_contact_us">Contactaţi-ne</string>
+</resources>

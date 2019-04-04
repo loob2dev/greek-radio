@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\mywork\\Greek Radios\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-sw360dp-v13\\values-sw360dp-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\bee\\.gradle\\caches\\transforms-1\\files-1.1\\welcome-1.4.1.aar\\7703045b76dfd660c77b3f37e3a0e926\\res\\values-sw360dp-v13\\values-sw360dp-v13.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,110",
+                        "endColumns": "54,51",
+                        "endOffsets": "105,157"
+                    },
+                    "to": {
+                        "startLines": "3,4",
+                        "startColumns": "4,4",
+                        "startOffsets": "127,182",
+                        "endColumns": "54,51",
+                        "endOffsets": "177,229"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\bee\\.gradle\\caches\\transforms-1\\files-1.1\\exomedia-3.1.1.aar\\4747feb1841fa215e4e7917ebab87c5b\\res\\values-sw360dp-v13\\values-sw360dp-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "71",
+                        "endOffsets": "122"
+                    }
+                }
+            ]
+        }
+    ]
+}

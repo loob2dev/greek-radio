@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "830583505956",
+    "firebase_url": "https://greek-radios.firebaseio.com",
+    "project_id": "greek-radios",
+    "storage_bucket": "greek-radios.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:830583505956:android:f030055d132672d4",
+        "android_client_info": {
+          "package_name": "com.Greek.Radios"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "830583505956-15diclpmov2tii9aj7flbe0p2voa8s9k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYyTUT05QvBj5Mkv1yosC2KhQBrAphq3E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Ir a la pantalla de inicio"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Desplazarse hacia arriba"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Más opciones"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Listo"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Ver todo"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Seleccionar una aplicación"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"DESACTIVADO"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"ACTIVADO"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Buscar…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Borrar consulta"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Consulta"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Buscar"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Enviar consulta"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Búsqueda por voz"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Compartir con"</string>
+    <string msgid="3300176832234831527" name="abc_shareactionprovider_share_with_application">"Compartir con <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Contraer"</string>
+    <string name="app_name">Elliniká Radiófona</string>
+    <string name="app_screen1">"Bienvenido a nuestra aplicación, esta página no volverá a aparecer. Este sitio web utiliza cookies de Google para prestar sus servicios, personalizar anuncios y analizar visitas. La información sobre el uso que hagas del App se compartirá con Google. Al utilizar este App, declaras tu conformidad con el uso de las cookies. Para buscar la radio, puede usar el icono Buscar. "</string>
+    <string name="app_screen2">Use el icono de tres puntos para agregar radios a sus favoritos, informar de un error de transmisión o compartir con sus amigos.</string>
+    <string name="app_screen2_t">Segundo paso !</string>
+    <string name="app_screen3">Con el botón de menú puede ver sus favoritos, configurar el modo de temporizador y controlar otras funciones. Disfrute la escucha!</string>
+    <string name="app_screen3_t">Último paso</string>
+    <string name="app_screen_hello">Hola !</string>
+    <string name="cancel">No</string>
+    <string name="choose_email">Elija una aplicación de e-mail...</string>
+    <string msgid="2518680582564677258" name="common_google_play_services_unknown_issue">"La aplicación <ns1:g id="APP_NAME">%1$s</ns1:g> tiene problemas con los Servicios de Google Play. Vuelve a intentarlo."</string>
+    <string name="drawer_about">Acerca de</string>
+    <string name="drawer_close">Cierre el cajón de navegación</string>
+    <string name="drawer_exit">Cerrar la aplicación</string>
+    <string name="drawer_favorite">Mis Favoritas</string>
+    <string name="drawer_more">Más</string>
+    <string name="drawer_open">Abrir panel de navegación</string>
+    <string name="drawer_radio_add">Añadir Radio</string>
+    <string name="drawer_rate">Valorar App</string>
+    <string name="drawer_recent">Home</string>
+    <string name="drawer_sleep">Temporizador</string>
+    <string name="drawer_sleep_mode">Temporizador</string>
+    <string name="email_message">no funciona, por favor actualízalo.</string>
+    <string name="email_problem">No hay una aplicación de e-mail instalada.</string>
+    <string name="email_subject">no funciona - Elliniká Radiófona -</string>
+    <string name="fab_favorite">Mis Favoritas</string>
+    <string name="failed_text">Ocurrió un error. Tal vez no está disponible en su país o la estación de radio está desconectada.</string>
+    <string name="failed_text_short">"Existe un problema relacionado con esta estación de radio "</string>
+    <string name="favorite_added">Añadido a Favoritos</string>
+    <string name="favorite_removed">Eliminada de Favoritos</string>
+    <string msgid="4133737464567140336" name="fcm_fallback_notification_channel_label">"Varias"</string>
+    <string name="internet_disabled">Conexión a Internet está Desactivada</string>
+    <string name="message">Desea cerrar la aplicación?</string>
+    <string name="minimize">Minimizar</string>
+    <string name="msg_search_input">Por favor ingrese una palabra clave</string>
+    <string name="no_category_found">¡Ninguna categoría encontrada!</string>
+    <string name="no_favorite_found">No se han encontrado favoritos</string>
+    <string name="no_internet_text">Sin conexión a Internet</string>
+    <string name="no_post_found">No se encontraron entradas! Intenta con otra palabra clave</string>
+    <string name="option_send_report">Reportar enlace roto</string>
+    <string name="option_set_detail">Detalles</string>
+    <string name="option_set_favorite">Agregar a Mi Favorito</string>
+    <string name="option_set_share">Compartir con amigos</string>
+    <string name="option_unset_favorite">Eliminar de favoritos</string>
+    <string name="quit">Salir</string>
+    <string name="radio_connection">Conectando con</string>
+    <string name="rate_message">"Para ayudarnos a mejorar esta aplicación, no se olvide de dar 5 estrellas en PlayStore "</string>
+    <string name="rate_title">Valorar App</string>
+    <string msgid="368094699078615544" name="s1">"Guardar imagen"</string>
+    <string msgid="4550830452390689489" name="s2">"¿Permitir que el anuncio almacene imágenes en la galería de imágenes?"</string>
+    <string msgid="2435407834265420668" name="s3">"Aceptar"</string>
+    <string msgid="9167523597401839819" name="s4">"Rechazar"</string>
+    <string msgid="1566682516266724847" name="s5">"Crear evento de calendario"</string>
+    <string msgid="5996672174517137271" name="s6">"¿Permitir que el anuncio cree un evento de calendario?"</string>
+    <string msgid="7163549807207034258" name="s7">"Anuncio de prueba"</string>
+    <string name="search">Buscar…</string>
+    <string msgid="146198913615257606" name="search_menu_title">"Buscar"</string>
+    <string name="share_content">Me gustaría compartir esto con ustedes. Aquí pueden descargar esta aplicación desde PlayStore</string>
+    <string name="sleep_mode_cancel">Eliminar temporizador!</string>
+    <string name="sleep_mode_hour">Horas</string>
+    <string name="sleep_mode_message">Hay un temporizador!</string>
+    <string name="sleep_mode_min">minutos.</string>
+    <string name="sleep_mode_minute">minutos.</string>
+    <string name="sleep_mode_no">No, no ahora </string>
+    <string name="sleep_mode_remaning">Tiempo restante:</string>
+    <string name="sleep_mode_text">A qué hora desea cerrar la radio?</string>
+    <string name="sleep_mode_text_close_time">Radio está cerrada en </string>
+    <string name="sleep_mode_yes">Sí, lo quiero </string>
+    <string name="station">Radio</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"+999"</string>
+    <string name="tab_category">Categorías</string>
+    <string name="tab_recent">"Añadidos Recientemente "</string>
+    <string name="title_contact_us">Contáctenos</string>
+</resources>

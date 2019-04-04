@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--Your application name-->
+    <string name="app_name">Elliniká Radiófona</string>
+
+    <!--Your main menu tab name-->
+
+    <!--navigation drawer menu name-->
+    <string name="drawer_recent">Anasayfa</string>
+    <string name="drawer_rate">Puan ver</string>
+    <string name="drawer_more">Yapımcı Sayfası</string>
+    <string name="drawer_open">Navigasyonu aç</string>
+    <string name="drawer_close">Navigasyonu kapat</string>
+
+
+    <!--floating action button menu-->
+    <string name="fab_favorite">Favorilerim</string>
+
+
+    <!--other string tag name-->
+    <string name="search">Ara&#8230;</string>
+    <string name="option_set_favorite">Favorilere ekle</string>
+    <string name="option_set_share">Paylaş</string>
+    <string name="option_unset_favorite">Favorilerden kaldır</string>
+    <string name="favorite_added">Favorilere eklendi</string>
+    <string name="favorite_removed">Favorilerden silindi.</string>
+    <string name="radio_connection">Baglanti yapiliyor </string>
+    <string name="internet_disabled">Internet bağlantınız devre dışı</string>
+    <string name="choose_email">Lütfen e-mail programı seçin</string>
+    <string name="drawer_about">Uygulama Hakkında</string>
+    <string name="drawer_radio_add">Radyo Ekle</string>
+    <string name="drawer_sleep_mode">Zamanlayıcı - Uyku Modu</string>
+    <string name="email_message">yayını mevcut değil, lütfen stream linkini yenileyiniz.</string>
+    <string name="email_problem">E-mail programı bulunamadı</string>
+    <string name="email_subject">yayın yapmıyor - Elliniká Radiófona -</string>
+    <string name="option_send_report">Kırık Link Bildir</string>
+    <string name="share_content">Seninle uygulamayı paylaşmak istiyorum. İşte Playstore den indirebileceğin download linki</string>
+    <string name="sleep_mode_cancel">Zamanlamayı sil!</string>
+    <string name="sleep_mode_message">Zaten kurulu bir zamanlama mevcut</string>
+    <string name="sleep_mode_min">dakika.</string>
+    <string name="sleep_mode_no">Hayır, Daha sonra</string>
+    <string name="sleep_mode_text">Uygulamanın ne zaman kapanmasını istersiniz?</string>
+    <string name="sleep_mode_text_close_time">Uygulama </string>
+    <string name="sleep_mode_yes">Evet, Aktif et</string>
+    <string name="drawer_exit">Uygulamayı kapat</string>
+    <string name="tab_recent">Son Eklenenler</string>
+    <string name="tab_category">Kategoriler</string>
+    <string name="no_favorite_found">Favori listenize herhangi bir radyo eklenmemiş</string>
+    <string name="drawer_sleep">Zamanlayıcı - Uyku Modu</string>
+    <string name="cancel">Hayır</string>
+    <string name="quit">Çık</string>
+    <string name="message">Uygulamadan çıkmak istermisiniz?</string>
+    <string name="minimize">Küçült</string>
+    <string name="rate_title">Puan ver</string>
+    <string name="rate_message">Uygulamamıza Play Store de 5 puanlı yorum yazmanız  uygulamamızı geliştirmemiz açısından büyük bir destek olacaktır.</string>
+    <string name="sleep_mode_remaning">Kalan süre:</string>
+    <string name="sleep_mode_hour">saat</string>
+    <string name="drawer_favorite">Favorilerim</string>
+    <string name="app_screen_hello">Merhaba !</string>
+    <string name="app_screen2_t">İkinci Adım !</string>
+    <string name="app_screen3_t">Son adım !</string>
+    <string name="app_screen1">Uygulamamıza hoş geldiniz, bu ekran tekrar karşınıza çıkmayacak, Bu uygulama, hizmetlerini sağlamak, reklamları kişiselleştirmek ve trafiği analiz etmek için Google çerezlerini kullanmaktadır. Uygulamayı nasıl kullandığınızla ilgili bilgiler Google ile paylaşılacaktır. Bu uygulamayı kullanarak çerezleri kabul etmiş sayılırsınız. Radyo aramak için Arama simgesine kullanabilirsiniz.</string>
+    <string name="app_screen2">Herhangi bir radyoyu favorilerinize eklemek, yayın hatasını bildirmek veya arkadaşlarınızla paylaşmak için üst üste üç nokta olan simgeyi kullanınız.</string>
+    <string name="app_screen3">Menü düğmesi ile favorilerinizi inceleyebilir, Zamanlama modunu kurabilir, ve diğer özelliklerden faydalanabilirsiniz.  Keyifli dinlemeler!</string>
+    <string name="sleep_mode_minute">dakika sonra kapanacaktır.</string>
+    <string name="title_contact_us">İletişim</string>
+    <string name="failed_text_short">Radyo yayınında bir sorun var</string>
+    <string name="failed_text">Bir hata oluştu. Dinlemek istediğiniz radyo yayını kapalı ya da ülkenizde dinlenemiyor olabilir.</string>
+    <string name="no_internet_text">Internet bağlantınız yok</string>
+    <string name="station">Radyo</string>
+    <string name="option_set_detail">Detaylı bilgi</string>
+    <string name="no_category_found">Kategori bulunamadı!</string>
+    <string name="no_post_found">Sonuç bulunamadı! Lütfen başka bir anahtar kelime deneyin</string>
+    <string name="msg_search_input">Lütfen bir anahtar kelime giriniz</string>
+
+</resources>

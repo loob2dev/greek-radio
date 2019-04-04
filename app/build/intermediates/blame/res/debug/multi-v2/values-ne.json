@@ -1,0 +1,94 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\mywork\\Greek Radios\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ne\\values-ne.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\bee\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-basement-11.8.0.aar\\48a6de2ada02adf8342556ccdca8787a\\res\\values-ne\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "283",
+                        "endColumns": "222",
+                        "endOffsets": "505"
+                    },
+                    "to": {
+                        "startLines": "19",
+                        "startColumns": "4",
+                        "startOffsets": "1963",
+                        "endColumns": "222",
+                        "endOffsets": "2181"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\bee\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\c07ec83aebc6f990526be9d1b6d482a4\\res\\values-ne\\values-ne.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,210,314,422,513,620,747,841,931,1019,1129,1245,1348,1463,1565,1680,1851,1963",
+                        "endColumns": "104,103,107,90,106,126,93,89,87,109,115,102,114,101,114,170,111,85",
+                        "endOffsets": "205,309,417,508,615,742,836,926,1014,1124,1240,1343,1458,1560,1675,1846,1958,2044"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,28",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,210,314,422,513,620,747,841,931,1019,1129,1245,1348,1463,1565,1680,1851,2957",
+                        "endColumns": "104,103,107,90,106,126,93,89,87,109,115,102,114,101,114,170,111,85",
+                        "endOffsets": "205,309,417,508,615,742,836,926,1014,1124,1240,1343,1458,1560,1675,1846,1958,3038"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\bee\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\51cb387048942467cf3964f6bb419ae8\\res\\values-ne\\values-ne.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "29",
+                        "startColumns": "4",
+                        "startOffsets": "3043",
+                        "endColumns": "100",
+                        "endOffsets": "3139"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\bee\\.gradle\\caches\\transforms-1\\files-1.1\\firebase-messaging-11.8.0.aar\\9e053df295caea67f8fc0f12bed623ba\\res\\values-ne\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "241",
+                        "endColumns": "99",
+                        "endOffsets": "340"
+                    },
+                    "to": {
+                        "startLines": "20",
+                        "startColumns": "4",
+                        "startOffsets": "2186",
+                        "endColumns": "103",
+                        "endOffsets": "2285"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\bee\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-ads-11.8.0.aar\\60bdc3172f54862f010f5b18b1cfb1af\\res\\values-ne\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10",
+                        "startColumns": "0,0,0,0,0,0,0",
+                        "startOffsets": "235,317,438,513,589,683,800",
+                        "endColumns": "81,120,74,75,93,116,73",
+                        "endOffsets": "316,437,512,588,682,799,873"
+                    },
+                    "to": {
+                        "startLines": "21,22,23,24,25,26,27",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "2290,2376,2501,2580,2660,2758,2879",
+                        "endColumns": "85,124,78,79,97,120,77",
+                        "endOffsets": "2371,2496,2575,2655,2753,2874,2952"
+                    }
+                }
+            ]
+        }
+    ]
+}

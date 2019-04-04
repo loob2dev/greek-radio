@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--Your application name-->
+    <string name="app_name">Elliniká Radiófona</string>
+
+    <!--Your main menu tab name-->
+
+
+    <!--navigation drawer menu name-->
+    <string name="drawer_recent">Домашняя страница</string>
+    <string name="drawer_rate">Оценить</string>
+    <string name="drawer_more">Кто мы</string>
+    <string name="drawer_open">Открыть навигации</string>
+    <string name="drawer_close">Закрыть навигации</string>
+
+
+    <!--floating action button menu-->
+    <string name="fab_favorite">Моё избранное</string>
+
+    <!--other string tag name-->
+    <string name="search">Поиск&#8230;</string>
+    <string name="option_set_favorite">Добавить в избранное</string>
+    <string name="option_set_share">Поделиться</string>
+    <string name="option_unset_favorite">Удалить из избранного</string>
+    <string name="favorite_added">Добавлено в избранное</string>
+    <string name="favorite_removed">Удаленное избранное</string>
+    <string name="radio_connection">Подключение осуществляется</string>
+    <string name="internet_disabled">Отключить подключение к интернету</string>
+
+
+    <string name="share_content">Я хотел поделиться  с тобой. Вот адрес Google Play Store</string>
+    <string name="option_send_report">Отчет поток</string>
+    <string name="drawer_radio_add">Добавить Радио</string>
+    <string name="drawer_sleep_mode">Установить таймер</string>
+    <string name="email_message">is broken, please renew it</string>
+    <string name="email_problem">No email client installed.</string>
+    <string name="email_subject">is broken - Elliniká Radiófona -</string>
+    <string name="choose_email">Выберите клиент электронной почты ...</string>
+    <string name="drawer_about">Кто мы</string>
+    <string name="sleep_mode_cancel">Удалить таймер!</string>
+    <string name="sleep_mode_message">Есть таймер!</string>
+    <string name="sleep_mode_min">минут.</string>
+    <string name="sleep_mode_no">Еще нет</string>
+    <string name="sleep_mode_text">Если вы хотите, чтобы закрыть приложение?</string>
+    <string name="sleep_mode_text_close_time">Применение закрывается через</string>
+    <string name="sleep_mode_yes">Да я хочу</string>
+    <string name="drawer_exit">Закройте приложение</string>
+    <string name="tab_recent">Недавно добавленные</string>
+    <string name="tab_category">Категории</string>
+    <string name="no_favorite_found">В избранное ничего не добавлено</string>
+    <string name="drawer_sleep">Установить таймер</string>
+    <string name="cancel">нет</string>
+    <string name="quit">выход</string>
+    <string name="message">Чтобы закрыть приложение?</string>
+    <string name="minimize">Mинимизировать</string>
+    <string name="rate_title">Оценить</string>
+    <string name="rate_message">Для того, чтобы помочь нам улучшить это приложение, не забудьте дать 5 звезд на PlayStore</string>
+    <string name="sleep_mode_remaning">Оставшееся время:</string>
+    <string name="sleep_mode_hour">часов</string>
+    <string name="drawer_favorite">Моё избранное</string>
+    <string name="app_screen_hello">Привет !</string>
+    <string name="app_screen2_t">Второй шаг !</string>
+    <string name="app_screen3_t">Последний шаг !</string>
+    <string name="app_screen1">Добро пожаловать в приложение! Для того, чтобы этот экран не всплывал вновь, вы можете воспользоваться значком «Поиск» для поиска радио. Это приложение использует Google Cookies для предоставления своих услуг, персонализации рекламы и анализа посещений. Информация о вашем использовании приложения будет предоставлена Google. Используя это приложение, вы соглашаетесь с использованием файлов cookie.. Достаточно будет написать название радио и нажать «поиск».</string>
+    <string name="app_screen2">Для того, чтобы добавить понравившуюся радиостанцию, сообщить об ошибке, поделиться с друзьями, используйте значок три точки, который находится в самом верху.</string>
+    <string name="app_screen3">С помощью кнопки Меню можно посмотреть Ваши закладки, установить режим расписания, а также использовать другие функции.</string>
+    <string name="sleep_mode_minute">минут.</string>
+    <string name="title_contact_us">Свяжитесь с нами</string>
+    <string name="failed_text_short">Существует проблема с этой радиостанции</string>
+    <string name="failed_text">Произошла ошибка. Может Hедоступно в вашем регионе или радиостанции отсутствует.</string>
+    <string name="no_internet_text">Нет подключения к интернету</string>
+    <string name="station">радио</string>
+    <string name="option_set_detail">Детали</string>
+    <string name="no_category_found">Не найдено ни одной категории!</string>
+    <string name="no_post_found">Записей не найдено! Попробуйте другое ключевое слово</string>
+    <string name="msg_search_input">Введите ключевое слово</string>
+
+</resources>
